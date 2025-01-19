@@ -7,3 +7,4 @@ create_new
 New line
 new line 2
 False
+NewBool
