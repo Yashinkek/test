@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 123 line
-=======
-dasdas
->>>>>>> 0c78d9d90570c89f43b22038185c4b4beff909da
 new
 
 create_new
